@@ -1,7 +1,7 @@
 # PORTFOLIO
 This portfolio is a small project using HTML/CSS and Boostrap.I will be using this to show case my projects.
 
-[Live Heroku Deployment](https://sana-portfolio.herokuapp.com/)
+[Live Heroku Deployment](https://sana-portfolio-main.herokuapp.com/)
 
 ![image](https://user-images.githubusercontent.com/75503213/112369764-cfda3080-8c99-11eb-913f-147dc7ae9a79.png)
 
